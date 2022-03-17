@@ -1,0 +1,100 @@
+p#nr1 {
+	text-align: right;
+	color: #FF0000;
+	font-size: 1cm;
+}
+p#nr2 {
+		color: #0000ff;
+		text-align: right;
+}
+li#nr3 {
+		color: #000000;
+}
+li#nr4 {
+		color: #000000;
+}
+li#nr5 {
+		color: #000000;
+}
+p#nr6 {
+		text-align: right;
+		color: #FF0000;
+		font-size: 1cm;
+}
+p#nr7 {
+		color: #0000ff;
+		text-align: right;
+}
+li#nr8 {
+		color: #000000;
+}
+li#nr9 {
+		color: #000000;
+}
+li#nr10 {
+		color: #000000;
+}
+#zda1{
+    font-family: serif;
+    color: #ff1993;
+    font-style: italic; 
+    font-variant: small-caps;
+    font-weight: 200;
+    font-size:x-small;
+    text-indent:1cm;
+    word-spacing:12px;
+    letter-spacing:5ex;
+	text-decoration: overline;
+}
+#zda2{
+     word-spacing:12px;
+    letter-spacing: 5ex;
+	color: #c71585;
+	font-weight: 400;
+    font-size: medium;
+    font-family: serif;
+    text-indent:1cm;
+}
+#zda3{
+    text-indent: 1cm;
+    word-spacing: 12px;
+    letter-spacing: 5ex;
+	font-weight: 900;
+    font-size: large;
+    text-transform:lowercase;
+    font-family: serif;
+    color: #FF1993;
+}
+#zda7{
+    font-family: sans-serif;
+    color: #fafad2 ;
+    text-transform: capitalize;
+    line-height:10pt;
+    word-spacing:0.5cm;
+    letter-spacing:15mm;
+	font-variant: small-caps;
+    font-weight:300;
+    font-size:10px;
+}
+#zda5{
+    color: #f0e68c;
+    text-transform: capitalize;
+    line-height:10pt;
+    word-spacing:0.5cm;
+    letter-spacing:15mm;
+	font-style: oblique;
+    font-weight:600;
+    font-size:1in;
+    font-family: sans-serif;
+}
+#zda6{
+	text-transform: capitalize;
+    line-height:10pt;
+    word-spacing:0.5cm;
+    letter-spacing:15mm;
+	text-decoration: line-through;
+    font-weight: 800;
+    font-size:2em;
+    font-family: sans-serif;
+    color: #ffd700;
+}
