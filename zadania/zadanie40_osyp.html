@@ -1,0 +1,35 @@
+<html lang="pl-PL">
+    <head>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        Taka deklaracja spowoduje, że każdy wykaz typu wypunktowanie (ul), który znajdzie się wewnątrz wykazu numerowanego (ol), będzie miał automatycznie nadany kolor czerwony:
+        <ul>
+            <li>Punkt pierwszy</li>
+            <ol>
+                <li>Podpunkt pierwszy</li>
+                <li>Podpunkt drugi</li>
+            </ol>
+            <li>Punkt drugi</li>
+        </ul>
+
+        <p>Dla porównania żaden z poniższych wykazów nie będzie czerwony:</p>
+<ol>
+    <li>Punkt pierwszy</li>
+    <ol>
+        <li>Podpunkt pierwszy</li>
+        <li>Podpunkt drugi</li>
+    </ol>
+    <li>Punkt drugi</li>
+    <ul>
+        <li>Podpunkt pierwszy</li>
+        <li>Podpunkt drugi</li>
+    </ul>
+    <li>Punkt trzeci</li>
+</ol>
+
+
+
+    </body>
+    </html>
+	<!-- Osypenko Mariia-->     
