@@ -1,0 +1,30 @@
+div#blok_1_osypenko
+{
+width: 600px;
+color: silver;
+background-color: black;
+}
+div#blok_2_osypenko
+{
+width: 600px;
+color: orange;
+background-color: black;
+}
+div#blok_3_osypenko
+{
+width: 600px;
+color: rgb(24, 192, 24);
+background-color: black;
+}
+div#blok_1_osypenko:hover
+{
+color: orange;
+}
+div#blok_2_osypenko:hover
+{
+color: blue;
+}
+div#blok_3_osypenko:hover
+{
+color: turquoise;
+}
